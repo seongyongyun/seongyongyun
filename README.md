@@ -4,7 +4,7 @@ I want to build software that is heavily involved in your lifestyle. While rapid
 
 🌱
  - Chonnam National University / Division of Culture Contents / Mar 2024 - Feb 2026
- - Kyungnam College of Information & Technology / Division of Industiral Design / Feb 2020 - Feb 2022
+ - Kyungnam College of Information & Technology / Division of Industiral Design / Mar 2020 - Feb 2022
    
 🔭
  - TaskNeko / Founder & CEO / 2020 ~ current
