@@ -11,5 +11,5 @@ I want to build software that is heavily involved in your lifestyle. While rapid
  - Cuvsoft / Co-Founder / 2016 ~ 2018
 
 💬
- - bit@taskneko.com
+ - founder@taskneko.com
  - seongyong@jnu.ac.kr
