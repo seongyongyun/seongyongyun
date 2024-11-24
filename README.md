@@ -12,4 +12,4 @@ I want to build software that is heavily involved in your lifestyle. While rapid
 
 💬
  - founder@taskneko.com
- - seongyong@jnu.ac.kr
+ - seongyong@chonnam.edu
