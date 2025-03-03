@@ -7,9 +7,8 @@ I want to build software that is heavily involved in your lifestyle. While rapid
  - Kyungnam College of Information & Technology / Division of Industiral Design / Mar 2020 - Feb 2022
    
 🔭
- - TaskNeko / Founder & CEO / 2020 ~ current
- - Cuvsoft / Co-Founder / 2016 ~ 2018
+ - Gangnam Developers Inc. / Founder & CEO / 2022 ~ current
 
 💬
- - founder@taskneko.com
- - seongyong@chonnam.edu
+ - seongyong@gdev.kr
+ - seongyongyun@kakao.com
