@@ -11,4 +11,4 @@ I want to build software that is heavily involved in your lifestyle. While rapid
 
 💬
  - seongyong@gdev.kr
- - seongyongyun@kakao.com
+ - yun@seongyong.com
